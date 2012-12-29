@@ -3,8 +3,10 @@ json_to_compressed_type_format
 # object number
 	print json_to_compressed_type_format("1")
 int
+
 	print json_to_compressed_type_format("1.1")
 float
+
 	print json_to_compressed_type_format("100000000000")
 long
 
